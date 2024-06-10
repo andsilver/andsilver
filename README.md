@@ -5,7 +5,7 @@ decentralized protocols, open-source codebases, and designing software solutions
 architecture, UX/UI, databases, technology stack, documentation, and project schedules. Up-to-date in the latest
 development trends and continuously learning new scripting, languages, and other technologies.
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,python,rails,solidity,rust,nodejs,nestjs,react,angular,vue,flask,fastapi,selenium,aws,azure,gcp,docker,linux,ubuntu,mysql,postgres,mongodb,nginx,git,firebase,supabase,grafana,graphql,sentry)
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,rails,solidity,rust,go,nodejs,nestjs,react,angular,vue,flask,fastapi,selenium,aws,azure,gcp,linux,ubuntu,mysql,postgres,mongodb,docker,nginx,git,firebase,supabase,grafana,graphql,sentry&theme=light)
 <!--
 
 Here are some ideas to get you started:
