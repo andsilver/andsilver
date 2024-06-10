@@ -1,6 +1,6 @@
 ## About me 🙂
 
-A passionate Blockchain/Full Stack Engineer with extensive experience in building products, contributing to
+A passionate Full Stack Web & Blockchain Engineer with extensive experience in building products, contributing to
 decentralized protocols, open-source codebases, and designing software solutions. Ability to problem-solve for
 architecture, UX/UI, databases, technology stack, documentation, and project schedules. Up-to-date in the latest
 development trends and continuously learning new scripting, languages, and other technologies.
