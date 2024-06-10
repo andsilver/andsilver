@@ -1,7 +1,11 @@
-## Hi there 👋
+## About me 🙂
+
+A passionate Blockchain/Full Stack Engineer with extensive experience in building products, contributing to
+decentralized protocols, open-source codebases, and designing software solutions. Ability to problem-solve for
+architecture, UX/UI, databases, technology stack, documentation, and project schedules. Up-to-date in the latest
+development trends and continuously learning new scripting, languages, and other technologies.
 
 <!--
-**andsilver/andsilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
